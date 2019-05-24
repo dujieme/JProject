@@ -20,7 +20,6 @@
     NSDictionary *dic = @{@"Ret":@"woshiRet",@"Name":@"ben",@"SessionID":@"123",@"General.Location":@{@"Language":@"eng",@"DSTRule":@"rule111"}};
     GeneralLocationModel *glModel = [GeneralLocationModel mj_objectWithKeyValues:dic];
     NSLog(@"%@",glModel);
-    // Do any additional setup after loading the view.
 }
 
 
