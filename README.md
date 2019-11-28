@@ -1,7 +1,0 @@
-# JProject
-...
-
-
-
-
-sssss

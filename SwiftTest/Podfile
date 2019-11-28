@@ -1,0 +1,13 @@
+use_frameworks!
+platform :ios, '10.0'
+inhibit_all_warnings!
+target 'SwiftTest'
+pod 'CocoaMQTT'
+pod 'LTMorphingLabel'
+pod 'RxSwift'
+pod 'RxCocoa'
+pod 'SnapKit'
+pod 'RxDataSources', '~> 4.0'
+pod 'SwiftyJSON'
+pod 'Alamofire'
+pod 'LTMorphingLabel'
